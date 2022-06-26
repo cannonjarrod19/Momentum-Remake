@@ -1,0 +1,1 @@
+This is one of my first projects that I was able to deploy in my web browser to use whenever I pull up a new tab. It challenged my ability to call an API for data that is tailored to my interests.
